@@ -1,0 +1,10 @@
+name = "AllSum"
+uuid = "6f4566a2-4d28-4c9e-9094-05c16525a4d9"
+authors = ["Benjamin Chu <benchu99@hotmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+LinearAlgebra = "1.11.0"
